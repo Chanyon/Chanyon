@@ -14,12 +14,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Profile views](https://gpvc.arturio.dev/Chanyon)  <img src="https://img.shields.io/github/followers/Chanyon?label=Follow" style=" float:left, margin-right:10px" />
+---
 <!-- https://img.shields.io/github/stars/{Chanyon}/{repo-name}.svg -->
 <!-- https://img.shields.io/github/issues-pr-closed/{Chanyon}/{repo-name}.svg -->
 ✍️ 你好我是小段同学，喜欢计算机编程和图形学(用计算机在二进制世界创造漂亮的图形，是多么的有趣！learning...),励志成为一名程序员！我开始的太晚，但也不算太迟，也许还能赶上！风雨欲来，一步一个脚印，默默努力，相信一定会有收获。
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chanyon)](https://github.com/Chanyon/github-readme-stats) -->
-![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chanyon&show_icons=true&theme=radical)<!--blue-green | tokyonight | radical-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chanyon&layout=compact)](https://github.com/Chanyon/github-readme-stats)
+<!-- ![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chanyon&show_icons=true&theme=radical)blue-green | tokyonight | radical -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chanyon&layout=compact)](https://github.com/Chanyon/github-readme-stats) -->
+ 
+<div align="center">
+  <a href="https://github.com/Chanyon">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chanyon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chanyon&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 <div align="center">
   <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
 </div>
