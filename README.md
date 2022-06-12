@@ -16,10 +16,13 @@ Here are some ideas to get you started:
 ![Profile views](https://gpvc.arturio.dev/Chanyon)  <img src="https://img.shields.io/github/followers/Chanyon?label=Follow" style=" float:left, margin-right:10px" />
 <!-- https://img.shields.io/github/stars/{Chanyon}/{repo-name}.svg -->
 <!-- https://img.shields.io/github/issues-pr-closed/{Chanyon}/{repo-name}.svg -->
-✍️ 你好我是小段同学，喜欢计算机编程和图形学(用计算机能在二进制世界创造漂亮的图形，是多么的有趣！learning...),励志成为一名程序员！我开始的太晚，但也不算迟。风雨欲来，一步一个脚印，默默努力，相信一定会有收获。
+✍️ 你好我是小段同学，喜欢计算机编程和图形学(用计算机能在二进制世界创造漂亮的图形，是多么的有趣！learning...),励志成为一名程序员！我开始的太晚，但也不算太迟。风雨欲来，一步一个脚印，默默努力，相信一定会有收获。
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chanyon)](https://github.com/Chanyon/github-readme-stats) -->
 ![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chanyon&show_icons=true&theme=radical)<!--blue-green | tokyonight | radical-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chanyon&layout=compact)](https://github.com/Chanyon/github-readme-stats)
+<div align="center">
+  <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
+</div>
 <!-- <a href="https://github.com/Chanyon">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chanyon&theme=radical&hide=glsl,python" />
 </a> -->
@@ -46,6 +49,7 @@ Here are some ideas to get you started:
 <!-- https://img.shields.io/github/forks/{username}/{repo-name}.svg -->
 <!-- https://img.shields.io/github/stars/{username}/{repo-name}.svg -->
 <!-- https://img.shields.io/github/issues-pr-closed/{username}/{repo-name}.svg -->
-<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
-
+<div align="center">
+<img width="35%" align="center" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+</div>
 
