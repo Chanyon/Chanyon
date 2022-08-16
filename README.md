@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ---
 <!-- https://img.shields.io/github/stars/{Chanyon}/{repo-name}.svg -->
 <!-- https://img.shields.io/github/issues-pr-closed/{Chanyon}/{repo-name}.svg -->
-✍️ 你好我是Duan Chengyun，喜欢计算机编程和图形学(用计算机在二进制世界创造漂亮的图形，是多么的有趣！learning...)。开始的太晚，但也不算太迟，也许还能赶上！风雨欲来，一步一个脚印，默默努力，相信一定会有收获。
+✍️ 你好我是Duan Chengyun，喜欢计算机编程和图形学(用计算机在二进制世界创造漂亮的图形，是多么的有趣！learning...)。
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chanyon)](https://github.com/Chanyon/github-readme-stats) -->
 <!-- ![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chanyon&show_icons=true&theme=radical) theme:blue-green | tokyonight | radical -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chanyon&layout=compact)](https://github.com/Chanyon/github-readme-stats) -->
