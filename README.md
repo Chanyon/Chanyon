@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ---
 <!-- https://img.shields.io/github/stars/{Chanyon}/{repo-name}.svg -->
 <!-- https://img.shields.io/github/issues-pr-closed/{Chanyon}/{repo-name}.svg -->
-✍️ 你好我是Duan Chengyun，喜欢计算机编程learning...
+✍️ 编程learning...
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chanyon)](https://github.com/Chanyon/github-readme-stats) -->
 <!-- ![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chanyon&show_icons=true&theme=radical) theme:blue-green | tokyonight | radical -->
