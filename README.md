@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently learning backend web development using JavaScript, TypeScript and Rust.
+- 🔭 I’m currently learning backend web development using JavaScript, TypeScript, Go and Rust.
 - 🌱 I’m looking for a Front-End development internship.
 - - 📫 How to reach me: [email](mailto:Dominic_Duan@163.com)
 <!--
@@ -22,16 +22,19 @@ Here are some ideas to get you started:
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chanyon)](https://github.com/Chanyon/github-readme-stats) -->
 <!-- ![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chanyon&show_icons=true&theme=radical) theme:blue-green | tokyonight | radical -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chanyon&layout=compact)](https://github.com/Chanyon/github-readme-stats) -->
- 
-<div align="center">
-  <a href="https://github.com/Chanyon">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chanyon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chanyon&layout=compact&langs_count=7&theme=dracula"/>
+
+ <div align="center">
+<!--   <a href="https://github.com/Chanyon">Chanyon</a> -->
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chanyon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chanyon&layout=compact&langs_count=7&theme=dracula"/> -->
+<img src="https://github-readme-stats.vercel.app/api?username=Chanyon&&show_icons=true&theme=radical&line_height=27&v=5" alt="Ashwani's GitHub Stats" />
 </div>
 
 <div align="center">
-  <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
+<!--   <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3>  -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chanyon&theme=radical&hide=glsl,python" width="440px"/>
 </div>
+
 
 <!-- <a href="https://github.com/Chanyon">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chanyon&theme=radical&hide=glsl,python" />
