@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Profile views](https://gpvc.arturio.dev/Chanyon)  <img src="https://img.shields.io/github/followers/Chanyon?label=Follow" style=" float:left, margin-right:10px" />
+<!-- ![Profile views](https://gpvc.arturio.dev/Chanyon)  -->
+<img src="https://img.shields.io/github/followers/Chanyon?label=Follow" style=" float:left, margin-right:10px" />
 ---
 <!-- https://img.shields.io/github/stars/{Chanyon}/{repo-name}.svg -->
 <!-- https://img.shields.io/github/issues-pr-closed/{Chanyon}/{repo-name}.svg -->
