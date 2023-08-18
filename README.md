@@ -1,7 +1,7 @@
 ### Hi there 👋
-- 🔭 I’m currently learning backend web development using JavaScript, TypeScript, Go and Rust.
-- 🌱 I’m looking for a Front-End development internship.
-- - 📫 How to reach me: [email](mailto:Dominic_Duan@163.com)
+<!-- - 🔭 I’m currently learning backend web development using JavaScript, TypeScript, Go and Rust.
+- 🌱 I’m looking for a Front-End development internship.-->
+- 📫 How to reach me: [email](mailto:Dominic_Duan@163.com)
 <!--
 **Chanyon/Chanyon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 -->
 <!-- ![Profile views](https://gpvc.arturio.dev/Chanyon)  -->
 <img src="https://img.shields.io/github/followers/Chanyon?label=Follow" style=" float:left, margin-right:10px" />
+
 ---
 <!-- https://img.shields.io/github/stars/{Chanyon}/{repo-name}.svg -->
 <!-- https://img.shields.io/github/issues-pr-closed/{Chanyon}/{repo-name}.svg -->
-✍️ 编程learning...
+<!--✍️ 编程learning... -->
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chanyon)](https://github.com/Chanyon/github-readme-stats) -->
 <!-- ![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chanyon&show_icons=true&theme=radical) theme:blue-green | tokyonight | radical -->
