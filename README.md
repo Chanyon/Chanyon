@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 <!-- ![decription](https://img.shields.io/badge/lang-Rust-red) -->
 
 ---
-#### ✍️正在学习
+#### ✍️learn...
 ![decription](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![decription](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![decription](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
@@ -63,11 +63,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
 <img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white"> -->
-
-<!-- 看情况使用 -->
-<!-- https://img.shields.io/github/forks/{username}/{repo-name}.svg -->
-<!-- https://img.shields.io/github/stars/{username}/{repo-name}.svg -->
-<!-- https://img.shields.io/github/issues-pr-closed/{username}/{repo-name}.svg -->
 
 <div align="center">
 <img width="35%" align="center" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
