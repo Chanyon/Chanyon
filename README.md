@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 <!--   <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3>  -->
-<img height="400px" width="440px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chanyon&layout=compact&langs_count=7&theme=dracula"/>
+<img height="400px" width="440px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chanyon&layout=compact&langs_count=11&theme=dracula"/>
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chanyon&theme=radical&hide=glsl,python" width="440px"/> -->
 </div>
 
